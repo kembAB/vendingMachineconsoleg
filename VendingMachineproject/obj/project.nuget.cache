@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dUGxopwiz0XlmlaXgukoXzJTUsysaZYuI2PgwNMKUnBqQ4aPzaF5P/9iOGHzkga2iv1wAhW33/wRhWftDp33+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\haile\\source\\repos\\VendingMachineproject\\VendingMachineproject\\VendingMachineproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haile\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

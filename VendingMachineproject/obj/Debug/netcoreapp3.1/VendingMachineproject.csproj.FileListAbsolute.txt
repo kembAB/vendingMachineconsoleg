@@ -1,0 +1,14 @@
+C:\Users\haile\source\repos\VendingMachineproject\VendingMachineproject\bin\Debug\netcoreapp3.1\VendingMachineproject.exe
+C:\Users\haile\source\repos\VendingMachineproject\VendingMachineproject\bin\Debug\netcoreapp3.1\VendingMachineproject.deps.json
+C:\Users\haile\source\repos\VendingMachineproject\VendingMachineproject\bin\Debug\netcoreapp3.1\VendingMachineproject.runtimeconfig.json
+C:\Users\haile\source\repos\VendingMachineproject\VendingMachineproject\bin\Debug\netcoreapp3.1\VendingMachineproject.runtimeconfig.dev.json
+C:\Users\haile\source\repos\VendingMachineproject\VendingMachineproject\bin\Debug\netcoreapp3.1\VendingMachineproject.dll
+C:\Users\haile\source\repos\VendingMachineproject\VendingMachineproject\bin\Debug\netcoreapp3.1\VendingMachineproject.pdb
+C:\Users\haile\source\repos\VendingMachineproject\VendingMachineproject\obj\Debug\netcoreapp3.1\VendingMachineproject.csproj.AssemblyReference.cache
+C:\Users\haile\source\repos\VendingMachineproject\VendingMachineproject\obj\Debug\netcoreapp3.1\VendingMachineproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haile\source\repos\VendingMachineproject\VendingMachineproject\obj\Debug\netcoreapp3.1\VendingMachineproject.AssemblyInfoInputs.cache
+C:\Users\haile\source\repos\VendingMachineproject\VendingMachineproject\obj\Debug\netcoreapp3.1\VendingMachineproject.AssemblyInfo.cs
+C:\Users\haile\source\repos\VendingMachineproject\VendingMachineproject\obj\Debug\netcoreapp3.1\VendingMachineproject.csproj.CoreCompileInputs.cache
+C:\Users\haile\source\repos\VendingMachineproject\VendingMachineproject\obj\Debug\netcoreapp3.1\VendingMachineproject.dll
+C:\Users\haile\source\repos\VendingMachineproject\VendingMachineproject\obj\Debug\netcoreapp3.1\VendingMachineproject.pdb
+C:\Users\haile\source\repos\VendingMachineproject\VendingMachineproject\obj\Debug\netcoreapp3.1\VendingMachineproject.genruntimeconfig.cache
